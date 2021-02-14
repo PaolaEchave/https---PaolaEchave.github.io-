@@ -1,5 +1,5 @@
 [build]
-command = "hugo -F -b $DEPLOY_PRIME_URL"
+command = "hugo"
 
 publish = "public"
 [build.environment]
