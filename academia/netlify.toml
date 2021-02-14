@@ -7,7 +7,7 @@
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
-  HUGO_ENV = "themefisher/academia-hugo"
+  HUGO_ENV = "production"
 
 [context.deploy-preview]
   command = "themefisher/academia-hugo"
