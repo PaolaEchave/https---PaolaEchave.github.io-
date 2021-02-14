@@ -1,9 +1,9 @@
 [build]
-command = "hugo -F -b $URL"
+command = "hugo"
 
 publish = "public"
 [build.environment]
-HUGO_VERSION = "0.80.0"
+HUGO_VERSION = "0.19"
 
 [context]
 [context.branch-deploy]
