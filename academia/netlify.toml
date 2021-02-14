@@ -1,16 +1,16 @@
 [build]
-  command = "academia-hugo"
+  command = "themefisher/academia-hugo"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.80.0"
+  HUGO_VERSION = "0.55.0"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
-  HUGO_ENV = "production"
+  HUGO_ENV = "themefisher/academia-hugo"
 
 [context.deploy-preview]
-  command = "academia-hugo"
+  command = "themefisher/academia-hugo"
 
 [context.branch-deploy]
-  command = "academia-hugo"
+  command = "themefisher/academia-hugo"
