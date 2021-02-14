@@ -1,5 +1,5 @@
 title: Paola Andrea Echave
-baseURL: https://examplesite.org
+baseURL: "https://example.com/"
 copyright: Copyright &copy; {year}
 googleAnalytics: ''
 disqusShortname: ''
