@@ -1,4 +1,4 @@
-# SITE SETUP
+e# SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
 # marketing
@@ -58,7 +58,7 @@ mail = "echavepaola.1@gmail.com"
 address = "Urban Institute, 500 L'Enfant Plaza SW, Washington, DC 20024"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "echave.1@osu.edu"
+office_hours = "echavepaola1@gmail.com"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
