@@ -53,9 +53,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "echave.1@osu.edu"
-mail = "echave.1@osu.edu"
-address = "238 Townshend Hall, 1885 Neil Avenue Mall, Columbus OH, 43210"
+email = "echavepaola1@gmail.com"
+mail = "echavepaola.1@gmail.com"
+address = "Urban Institute, 500 L'Enfant Plaza SW, Washington, DC 20024"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "echave.1@osu.edu"
