@@ -45,4 +45,10 @@ subtitle = ""
   name = "GitHub"
   parcent = "40%"  
 
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Stata"
+  parcent = "90%"   
+
 +++
