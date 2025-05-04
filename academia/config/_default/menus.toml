@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Resume"
+  name = "CV"
   url = "resume/images/Echave_Paola_CV (5.1.25).docx"
   weight = 20
 
