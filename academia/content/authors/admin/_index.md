@@ -20,7 +20,7 @@ education:
   - course: BA in Criminology with a minor in Psychology
     institution: University of New Mexico
     year: 2013
-email: "echave.1@osu.edu"
+email: "echavepaola1@gmail.com"
 interests:
 - Demography
 - Immigration
@@ -52,11 +52,13 @@ superuser: true
 # - Visitors
 ---
 
-In my dissertation, I use various data sources, including the U.S. Census, to study the impact of immigration enforcement on the well-being of Hispanic communities in the U.S. 
+I use various data sources, including the U.S. Census, to study the impact of immigration enforcement on the well-being of immigrant and Latinx communities in the U.S. I also conduct research that uses mixed-methods to analyze the influence that immigration policy has on the lives of immigrants and other underepresented communities. I am currently the lead analyst and project manager of the Annual Survey of Refugees, which has given the opportunity to work with colleagues on survey design and data collection.
 
-Throughout my graduate education, I worked and maintained effective relationships and communications with project sponsors and external stakeholders, including undergraduate students, the Latinx Space for Enrichment and Research, the Institute for Population Research, and the National Coalition for Latinxs with Disabilities (CNLD). I continue to strenghten these relationships by collaborating or leading team projects and providing guidance on how to complete a demographic or international study.
+I led and co-led multiple international projects in countres across Latin American and parts of Africa. I continue to pursue this passion at the Urban Institute, where I work with academic colleagues, community-based organizations, and researchers to develop intervention programs that reduce the risk of labor exploitation in places like Mexico and Bolivia. 
+
+Throughout my career, I worked and maintained effective relationships and communications with community-based organizations, project sponsors and external stakeholders, including undergraduate students, academics, the Latinx Space for Enrichment and Research, the Institute for Population Research at the Ohio State University, and immigrant-serving organizations in the US and Mexico. I continue to strenghten these relationships by collaborating or leading team projects and providing guidance on how to complete a demographic or international study.
 
 My specialized experience consists of reviewing and analyzing data from censuses and large-scale social science and demographic surveys. I also serve as a technical expert for various demographic and international projects and developed research programs that are carried out by others under my guidance.
 
-In order to promote the academic developemt of other students and professionals, I create R tutorials and statistical analyses workshops in Spanish/English and present this information to students, researchers, and organizations. 
+In order to promote the academic developemt of other students and professionals, I create R and Stata tutorials and statistical analyses workshops in Spanish/English and present this information to students, researchers, and organizations. 
 
