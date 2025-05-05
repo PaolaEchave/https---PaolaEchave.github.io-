@@ -13,7 +13,7 @@ education:
   courses:
   - course: Ph.D. in Sociology
     institution: The Ohio State University
-    year: Expected in Fall 2021
+    year: 2021
   - course: M.A. in Sociology
     institution: The Ohio State University
     year: 2018
