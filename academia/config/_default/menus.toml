@@ -10,7 +10,7 @@
 
 [[main]]
   name = "CV"
-  url = "resume/images/Echave_Paola_CV (5.1.25).docx"
+  url = "resume/images/Echave_Paola_CV (October 2025).docx"
   weight = 20
 
 #[[main]]
@@ -52,5 +52,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-   url = "resume/images/Echave_Paola_CV (5.1.25).pdf"
+   url = "resume/images/Echave_Paola_CV (October 2025).pdf"
    weight = 70
