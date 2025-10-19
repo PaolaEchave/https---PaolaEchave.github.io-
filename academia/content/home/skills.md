@@ -25,7 +25,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  parcent = "45%"
+  parcent = "50%"
   
 [[feature]]
   icon = "SAS_logo_horiz"
@@ -43,7 +43,7 @@ subtitle = ""
   icon = "github-square"
   icon_pack = "fab"
   name = "GitHub"
-  parcent = "40%"  
+  parcent = "70%"  
 
 [[feature]]
   icon = ""
@@ -51,4 +51,9 @@ subtitle = ""
   name = "Stata"
   parcent = "90%"   
 
+[[feature]]
+  icon = ""
+  icon_pack = "fab"
+  name = "ArcGIS"
+  parcent = "90%"
 +++
